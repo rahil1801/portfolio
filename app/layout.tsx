@@ -6,11 +6,6 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Nibras | Rahil Alam',
   description: 'Explore the portfolio of Rahil, a Full-Stack MERN developer and creative designer. Showcasing web applications, real-time projects, UI/UX designs, and innovative solutions.',
-  icons: {
-    icon: "/Nibras-logo.png",
-    shortcut: "/Nibras-logo.png",
-    apple: "/Nibras-logo.png",
-  },
   keywords: [
     "Rahil",
     "portfolio",
@@ -28,14 +23,6 @@ export const metadata: Metadata = {
       "Showcasing MERN stack projects, creative UI/UX designs, and innovative web applications by Rahil.",
     url: "",
     siteName: "Nibras",
-    images: [
-      {
-        url: "/Nibras-logo.png",
-        width: 1200,
-        height: 630,
-        alt: "Preview of Rahil's Portfolio Website",
-      },
-    ],
     locale: "en_US",
     type: "website",
   },
